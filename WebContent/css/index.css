@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+table, th, td {
+  border: 1px solid black;
+}
+input[type=text] {
+  width: 10%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
